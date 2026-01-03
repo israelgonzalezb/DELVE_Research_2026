@@ -42,6 +42,8 @@ A framework where coordination is achieved through **environmental modification*
 
 Our current priority is the development of a **Unified Agent-Manifold Interface**. This software framework will translate traditional loss functions into "navigational currents" that agents can perceive and follow using local heuristic rules.
 
+Demos of the algorithms are posted in this [X thread](https://x.com/izzyz/status/2007150229544677758.
+
 ---
 
 **Disclaimer:** *The concepts documented in this repository are theoretical and part of ongoing research into Artificial Superintelligence (ASI) architectures.*
